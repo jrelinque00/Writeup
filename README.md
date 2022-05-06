@@ -5,7 +5,7 @@
 		<tr>
 			<td align="center"><b>Nombre</b></td>
 			<td align="center"><b>Platforma</b></td>
-			<td align="center"><b></b>Writeup</td>
+			<td align="center"><b>Writeup</b></td>
 		</tr>
 		<tr>
 			<td align="center">Pickle Rick</td>
