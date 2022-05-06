@@ -1,6 +1,6 @@
 # Writeup
 
-<table>
+<table align="center">
 	<tbody>
 		<tr>
 			<td align="center"><b>Nombre</b></td>
