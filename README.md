@@ -12,5 +12,10 @@
 			<td align="center">Tryhackme</td>
 			<td align="center"><a href="https://github.com/jrelinque00/Writeup/blob/main/Pickle%20Rick%20jrelinque.pdf">ver</a></td>
 		</tr>
+		<tr>
+			<td align="center">Daily Bugle</td>
+			<td align="center">Tryhackme</td>
+			<td align="center"><a href="https://github.com/jrelinque00/Writeup/blob/main/Daily%20Bugle.pdf">ver</a></td>
+		</tr>
 	</tbody>
 </table>
